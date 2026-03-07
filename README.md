@@ -13,5 +13,6 @@ a positive value equal in magnitude to the number entered from the keyboard.
   c) The digit counter variable is incremented by one.
 5. The entered number and the number of its digits are displayed on the screen.
 
-Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы. 
-Консольное приложение написанное на языке программирования Java. Программа делает следующее:
+NumOfDigits. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы. 
+Консольное приложение написанное на языке программирования Java. 
+Программа делает следующее:
