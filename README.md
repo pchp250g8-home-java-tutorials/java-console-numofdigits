@@ -1,5 +1,6 @@
 NumOfDigits. Java tutorials. Console Application. Simple Input/Output. Algorithms. 
-A console application project written in the Java programming language and implemented in the Apache NetBeans integrated environment. The Java platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
+A console application project written in the Java programming language and implemented in the Apache NetBeans integrated environment. 
+The Java platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 The program does the following:
 1. Prompts the user for an integer.
 2. Sets the digit counter variable to zero.
